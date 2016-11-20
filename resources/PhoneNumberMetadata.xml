@@ -24903,7 +24903,7 @@
 
     <!-- Uzbekistan -->
     <territory id="UZ" countryCode="998" preferredInternationalPrefix="8~10"
-               internationalPrefix="810" nationalPrefix="8"
+               internationalPrefix="810" nationalPrefix="0"
                nationalPrefixFormattingRule="$NP $FG">
       <references>
         <sourceUrl>http://www.ttts.uz/eng/telephone_codes/codes_uzb_eng</sourceUrl>
